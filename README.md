@@ -1,0 +1,2 @@
+# JavaPatryk
+Java-pierwszy program
